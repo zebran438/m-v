@@ -1,0 +1,8 @@
+target/
+.git/
+.github/
+.env
+data/
+.idea/
+.vscode/
+README.md
